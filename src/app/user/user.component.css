@@ -1,0 +1,26 @@
+tr:nth-child(even) {background: #f0f8ff}
+tr:nth-child(odd) {background: #fff}
+
+.main-table {
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    max-width: 97%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.main-table tr td {
+    vertical-align: middle;
+}
+.custom-navbar {
+    background-color: #0000ff;
+    padding: 10px;
+}
+.add-user-btn {
+    background-color: #fff;
+}
+.btn-edit {
+    background-color: #0000ff;
+    font-size: 14px;
+}
+.delete-btn {
+    font-size: 14px;
+}

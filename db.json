@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "email": "test@gmail.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "test",
+      "email": "data",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "test",
+      "email": "sdfj",
+      "gender": "skjs",
+      "status": "dssd"
+    },
+    {
+      "id": 5,
+      "name": "test",
+      "email": "test@gmail.com",
+      "gender": "male",
+      "status": "active"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
